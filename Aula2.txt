@@ -1,0 +1,2 @@
+# Para instalar o reac-native-elements para usar o teclado e butao diferenciado por exemplo. Acesar o site no github react-native-elements para consultar como usar.
+sudo npm i react-native-elements --save
